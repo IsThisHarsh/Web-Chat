@@ -25,7 +25,7 @@ Welcome to the Web-Chat application! This project is a web-based chat platform d
 ## Technologies Used
 
 - **Client**: Developed using modern web technologies to ensure responsiveness and compatibility across various devices.
-- **Server**: Built with Node.js, leveraging WebSocket for efficient real-time communication.
+- **Server**: Built with Nestjs, leveraging WebSocket for efficient real-time communication.
 
 ## Prerequisites
 
